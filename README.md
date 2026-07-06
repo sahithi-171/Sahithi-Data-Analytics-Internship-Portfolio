@@ -16,7 +16,6 @@ This portfolio demonstrates my practical experience gained through a structured 
 
 </p>
 Internship Roadmap
--------------------
 
 Task	Status	Skills
 
